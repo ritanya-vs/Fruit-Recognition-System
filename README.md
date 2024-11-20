@@ -42,6 +42,7 @@ The **Smart Fruit Recognition System** uses an **ESP32-CAM module** integrated w
    ```bash
    pip install tensorflow streamlit 
    ```
+3. Download dataset: https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification
 
 ### Steps to Run:
 
