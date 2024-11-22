@@ -1,11 +1,11 @@
 
 # Smart Fruit Recognition System
 
-## About the Project
+## About the Project🌟
 
 The **Smart Fruit Recognition System** uses an **ESP32-CAM module** integrated with **Arduino** and powered by a **TensorFlow Lite** model for real-time object detection. The system recognizes different fruits by analyzing images captured by the ESP32-CAM's camera. Upon successful recognition, the fruit's name is displayed on a connected interface via **Streamlit**.
 
-### Key Features:
+### Key Features:🚀
 1. **Real-Time Object Detection**:  
    - The system uses a TensorFlow Lite model to detect fruits in images captured by the ESP32-CAM module.
   
@@ -19,13 +19,13 @@ The **Smart Fruit Recognition System** uses an **ESP32-CAM module** integrated w
 
 ---
 
-## Hardware Specifications:
+## Hardware Specifications⚙️:
 - **Espressif ESP32-CAM**: Captures images of the fruits.
 - **Arduino UNO**: Controls peripherals and coordinates communication.
 
 ---
 
-## Software Specifications:
+## Software Specifications💻:
 - **Arduino IDE**: Used for programming the ESP32-CAM.
 - **Programming Language**: Python for backend logic and data processing.
 - **Libraries Used**:
@@ -34,7 +34,7 @@ The **Smart Fruit Recognition System** uses an **ESP32-CAM module** integrated w
   
 ---
 
-## How to Run the Project
+## How to Run the Project🚀
 
 ### Prerequisites:
 1. Install **Arduino IDE** and set up the **ESP32** library.
